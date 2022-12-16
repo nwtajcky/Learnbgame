@@ -3,7 +3,7 @@
 
 [blender插件learnbgame的前世今生--释义](https://www.bilibili.com/video/BV1e4411W7Ts)
 
-字幕：
+字幕1：
 
 *	Learnbgame 是什么?顾名思义,Learnbgame is learn by game,
 
@@ -30,7 +30,7 @@ Fofight is forerver fight...
 
 
 
-
+字幕2：
 [Learnbgame踏出第一步，以科学知识学习为导向的基于虚幻引擎Unreal的开源完整游戏项目，Learnbgame is Learn By Game](https://www.bilibili.com/video/BV1kf4y1q7Mp)
 
 learnbgame is learn by game,
@@ -40,3 +40,7 @@ learnbgame is learn by game,
 顾名思义，learnbgame is learn by game！玩，游戏，这几乎是每一个人的天性吧。在学生时代，我一直有一个想法，希望通过游戏的方式学习知识。化学元素周期表，物质的化学组成，这些化学知识，是妥妥的游戏玩法。谷氨酸是构成蛋白质的基本单位，是组成人体蛋白质的20种氨基酸之一，这个知识点，在learnbgame游戏中用法就是摄入谷氨酸可增加生命健康。我希望在游戏的时候也能学到知识，或者游戏能激发你探索学习更深入知识的渴望。随着义务教育的普及，很多科学知识慢慢的会很自然的成为一种常识.如果游戏中生硬的将知识进行呈现就会令很多初学者失去对Learnbgame的兴趣。所以game需要保持足够的自然而不不使玩家在玩游戏时感觉游戏很尬。在learn 和 game保持一个平衡，这是一个极大的挑战。像learnbgame这样简单的想法想必应该大多数人都会有吧。于是此前很长一段时间，我都在寻找理想中的游戏，也找到了一些关于知识学习的游戏，但是这些所谓游戏大多都是类似填空般地很生硬的将知识进行呈现，
 
 诚然，要实现learnbgame的目标我一个人难以完成，，我选择了以特效为业，Blender——>Houdini——>Unreal,一路走来，在实现Learnbgame这条路上，我所学所积累都开源在Github上，我相信有和learbgame类似的想法的人还有很多，我时间和精力也有限，所以我决定开源出来。那么，就由我来抛砖引玉吧，这条平凡之路
+
+
+字幕3：
+自Learnbgame释义后，经历了一些事，于这个世界，区块链，元宇宙，这一切都昭示着”虚拟现实“的时代到来，时代在变，我们也需不断进步,有人说，梦醒之时，成长之时，或许吧，清醒的人最疯狂，于我个人而言，我曾顶着毕业而失业压力，闭门造车一年，而后工作沉淀一年，很庆幸初心未变，但是，横流争渡，总要付出代价，许下过的愿，挖下过的坑
